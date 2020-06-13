@@ -1,5 +1,6 @@
-# ProyectoRedesNeuronales
-Proyecto Sistema Recomendador de Películas
+## ProyectoRedesNeuronales
+### Proyecto Sistema Recomendador de Películas
+
 Autores: - Ascencio Bolio Raúl
          - Rodríguez Romero Sergio Alfonso
 
